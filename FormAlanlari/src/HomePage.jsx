@@ -1,5 +1,5 @@
 export default function Main(){
     return(<>
-    <div>Home Page</div>
+    <div>Home Page....</div>
     </>)
 }
